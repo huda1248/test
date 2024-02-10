@@ -1,0 +1,4 @@
+# i am ignoring the .txt file and .exe file
+*.txt
+*.exe
+
