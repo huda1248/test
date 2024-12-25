@@ -1,0 +1,20 @@
+class Taslima:
+ def __init__(self, name, age, color, height, eyecolor, earring, haircolor, bodytype)
+   self.name = name
+   self.age = age
+   self.color = color
+   self.height = height
+   self.eyecolor = eyecolor
+   self.earring = earring
+   self.haircolor = haircolor
+   self.bodytype = bodytype
+p1 = Taslima("Taslima", 32, "brown", 5.2, "black","goldearring", "black", "flex")
+
+print(p1.name)
+print(p1.age)
+print(p1.color)
+print(p1.height)
+print(p1.earring)
+print(p1.haircolor)
+print(p1.bodytype)
+
